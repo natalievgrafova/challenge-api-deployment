@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+deployment
 
 # C extensions
 *.so
@@ -158,3 +159,59 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+.DS_Store
+deployment/bin/activate
+deployment/bin/activate.csh
+deployment/bin/activate.fish
+*.ps1
+deployment/bin/f2py
+deployment/bin/f2py3
+*.11
+deployment/bin/ipython
+deployment/bin/ipython3
+deployment/bin/jsonpointer
+deployment/bin/jsonschema
+deployment/bin/jupyter
+deployment/bin/jupyter-bundlerextension
+deployment/bin/jupyter-console
+deployment/bin/jupyter-dejavu
+deployment/bin/jupyter-events
+deployment/bin/jupyter-execute
+deployment/bin/jupyter-kernel
+deployment/bin/jupyter-kernelspec
+deployment/bin/jupyter-migrate
+deployment/bin/jupyter-nbclassic
+deployment/bin/jupyter-nbclassic-bundlerextension
+deployment/bin/jupyter-nbclassic-extension
+deployment/bin/jupyter-nbclassic-serverextension
+deployment/bin/jupyter-nbconvert
+deployment/bin/jupyter-nbextension
+deployment/bin/jupyter-notebook
+deployment/bin/jupyter-qtconsole
+deployment/bin/jupyter-run
+deployment/bin/jupyter-server
+deployment/bin/jupyter-serverextension
+deployment/bin/jupyter-troubleshoot
+deployment/bin/jupyter-trust
+deployment/bin/pip
+deployment/bin/pip3
+deployment/bin/pygmentize
+deployment/bin/python
+deployment/bin/python3
+deployment/bin/qtpy
+deployment/bin/send2trash
+deployment/bin/uvicorn
+deployment/bin/wsdump
+*.json
+*.desktop
+*.svg
+*.png
+*.orig
+*.js
+*.txt
+*.j2
+*.css
+*.tpl
+*.cfg
+*.map
+*.1
